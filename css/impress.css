@@ -388,6 +388,9 @@ span.big {
 #code pre {
     font-size: 20px;
 }
+#code a {
+    z-index: 10000;
+}
 
 /*
     Below we position each word separately along Z axis and we want it to transition
